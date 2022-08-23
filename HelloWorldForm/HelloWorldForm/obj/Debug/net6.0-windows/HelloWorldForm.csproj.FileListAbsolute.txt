@@ -1,0 +1,17 @@
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\bin\Debug\net6.0-windows\HelloWorldForm.exe
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\bin\Debug\net6.0-windows\HelloWorldForm.deps.json
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\bin\Debug\net6.0-windows\HelloWorldForm.runtimeconfig.json
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\bin\Debug\net6.0-windows\HelloWorldForm.dll
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\bin\Debug\net6.0-windows\HelloWorldForm.pdb
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.csproj.AssemblyReference.cache
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.Form1.resources
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.csproj.GenerateResource.cache
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.AssemblyInfo.cs
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.dll
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\refint\HelloWorldForm.dll
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.pdb
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\HelloWorldForm.genruntimeconfig.cache
+C:\Users\david\Documents\Arquivos de cursos\c#Caelum\Projetos\HelloWorldForm\HelloWorldForm\obj\Debug\net6.0-windows\ref\HelloWorldForm.dll
